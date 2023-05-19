@@ -1,2 +1,2 @@
 # cpp-sex
-I was bored. CPP Sex script.
+I was bored. CPP Sex script. It works
